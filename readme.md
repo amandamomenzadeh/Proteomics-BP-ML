@@ -3,13 +3,4 @@
 
 [Link to preprint]()
 
-Authors
-Simion Kreimer, Ali Haghani, Jennifer Van Eyk
-
-DBS and Mitra:	Aleksandra Binek, Hauspurg Alisse
-
-Cell Lysate: Saeed Seyedmohammad, Alejandro Rivas
-
-Blood Pressure Classifier: Amanda Momenzadeh, Jesse Meyer
-
-This repository contains the code used to generate all the figures. 
+This repository contains all the code that was used for the machine learning analysis of proteomic data from blood, including data preparation, dimension reduction, statistical testing and machine learning models. 
